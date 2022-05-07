@@ -23,4 +23,23 @@ About the Sensitivity
 Please adjust the mouse sensitivity in “SOE Helper”—“Fast Switch” and find the sensitivity that is most suitable for you by the sensitivities of various power lens in the game.
 <img src="https://user-images.githubusercontent.com/102645554/167232145-832c61e5-6b0a-4682-a9d6-fad7270355a6.jpg" width="400"/>
 
+The Advanced Operation
 
+1. You can adjust the transparency of nearly all buttons to zero in the “user-defined layout” in the “operation setting” of the game so that the entire screen will be very clear.
+<img src="https://user-images.githubusercontent.com/102645554/167232251-8578b607-27a2-45c0-a4e9-a26aaf2d47e2.jpg" width="400"/>
+
+2. The Advanced Setting about the Vehicle
+You can put the button of “Drive” and“Get Off” together in the game layout so that you can achieve this function through one shortcut key. (Please double click the key you want to adjust in the “Key Adjustment” of the APP and choose the “Get on/off key”)
+<img src="https://user-images.githubusercontent.com/102645554/167232303-40fa72ed-8071-4313-bc6e-a3122f857dfe.jpg" width="400"/>
+
+3. About the setting of gun control: Enter the “Position”, double click the fire button, and choose the “Auxiliary Shooting”. Then, adjust the power and speed according to your habit and guns. The “F1” on the keyboard is the switch of gun control pattern.
+<img src="https://user-images.githubusercontent.com/102645554/167232327-e82636e0-3ef7-4f3d-96c9-1639088fe583.jpg" width="400"/>
+
+4. Office mode: The default mode of the SOE Helper Magic Box is the game mode. And if you need to work, just choose the “Office Mode” in the “Connection Mode” in the “Application” of the APP.
+
+5. About charging: The external power source can supply power to the SOE Helper Magic Box and charge the phone simultaneously so as to keep the electricity operation during the game. (Please choose the original or quality-assured charger as well as the charging cable of your phone)
+
+About Screen Projection
+1. The ultra-high refresh rate can be achieved by the SOE Helper Magic Box through the HDMI line. And the Magic Box can be projected to HDMI monitors online without delay such as the HDMI Television, HDMI Monitor, etc. 
+2. APP Choose “Automatic Switching” or “Manual Switching” in the “Shortcut Setting”一 》“Advance Setting”.
+3. Your phone should be equipped with the function of TYPE-C video output.
