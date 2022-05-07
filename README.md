@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/102645554/167233506-0175bdb8-f029-4ae9-8436-d43a446f1d0e.gif" width="1000"/>
 
 # Scan the QR Code to Download the APP
-<img src="https://user-images.githubusercontent.com/102645554/167233845-6f2990ec-5b5f-4a0f-87ef-e62c2dc578d7.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/102645554/167233845-6f2990ec-5b5f-4a0f-87ef-e62c2dc578d7.png" width="250"/>
 
 # The Initial Connection 
 1. Scan the QR code behind the SOE Helper Magic Box to download the “SOE Helper APP” and install it. (Please choose the recommended version of the SOE Helper Magic Box)
