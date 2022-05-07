@@ -1,5 +1,8 @@
 # Android-SOE-Helper
 
+#download
+<img src="https://user-images.githubusercontent.com/102645554/167233506-0175bdb8-f029-4ae9-8436-d43a446f1d0e.gif" width="1000"/>
+
 # An Illustration of the APP Functions:
 1. The size adjustment of the key icons: Please adjust the icon size in the “Application”一 》 “Icon setting” of the SOE Helper APP.
 <img src="https://user-images.githubusercontent.com/102645554/167232496-ea4ae980-eef0-4db9-a8ba-36e66f93c80b.jpg" width="1000"/>
