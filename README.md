@@ -3,6 +3,15 @@
 # download
 <img src="https://user-images.githubusercontent.com/102645554/167233506-0175bdb8-f029-4ae9-8436-d43a446f1d0e.gif" width="1000"/>
 
+# The Initial Connection 
+1. Scan the QR code behind the SOE Helper Magic Box to download the “SOE Helper APP” and install it. (Please choose the recommended version of the SOE Helper Magic Box)
+
+2. Open the “SOE Helper APP” After connecting the Magic Box. (Please open the demanded permissions by the APP when installing and opening it) 
+
+3. Choose and click “PUBG MOBILE” in the game list of the APP to enter the game.
+ 
+4. The key setting of the game has been preinstalled by the SOE Helper APP. You can adjust it in accordance with your own operation habit. It is recommended to enter “Training Grounds” to check whether the key positions are coincide with the suspended keys of the APP for the first time. Provided that there is any deviation to be adjusted, you can push “ESC” to call out the mouse pointer, click “SOE Helper” at the top of the screen and choose “Position”. Then, move the suspended key of the APP to the demanded position and make it coincide with the game key so that the user-defined key setting can be finished. Then, click “Save” and exit the APP.
+
 # An Illustration of the APP Functions:
 1. The size adjustment of the key icons: Please adjust the icon size in the “Application”一 》 “Icon setting” of the SOE Helper APP.
 <img src="https://user-images.githubusercontent.com/102645554/167232496-ea4ae980-eef0-4db9-a8ba-36e66f93c80b.jpg" width="1000"/>
