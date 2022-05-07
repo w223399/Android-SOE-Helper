@@ -7,9 +7,20 @@
 
 
 About the Vehicle and the Wheel(Special Remarks)
+
 Due to the differences between phone models or the previous adjustments of the key setting, the default key setting of the APP should be slightly adjusted so as to control the vehicle and the wheel more accurately and satisfy your personalized demands.
 1. Please choose the second mode in the “vehicle setting” of the game.
 <img src="https://user-images.githubusercontent.com/102645554/167231935-9751fd6d-7744-4371-a14e-2ecb65447e1b.jpg" width="400"/>
 
-2.Since the vehicle wheel is not at the same position with the direction wheel in the game, it is suggested that you should adjust the direction wheel on the vehicle wheel of the APP.
+2. Since the vehicle wheel is not at the same position with the direction wheel in the game, it is suggested that you should adjust the direction wheel on the vehicle wheel of the APP.
 <img src="https://user-images.githubusercontent.com/102645554/167231967-b4601a65-7931-4323-89f3-65f80a430a36.jpg" width="400"/>
+
+3. Enter the “user-defined layout” in the “operation setting” of the game and move the direction wheel in line with the wheel of the APP 
+<img src="https://user-images.githubusercontent.com/102645554/167232077-36430327-f9c7-40f2-86c2-9ba90aa29e0e.jpg" width="400"/>
+
+About the Sensitivity
+
+Please adjust the mouse sensitivity in “SOE Helper”—“Fast Switch” and find the sensitivity that is most suitable for you by the sensitivities of various power lens in the game.
+<img src="https://user-images.githubusercontent.com/102645554/167232145-832c61e5-6b0a-4682-a9d6-fad7270355a6.jpg" width="400"/>
+
+
