@@ -14,7 +14,7 @@ Due to the differences between phone models or the previous adjustments of the k
 2. Since the vehicle wheel is not at the same position with the direction wheel in the game, it is suggested that you should adjust the direction wheel on the vehicle wheel of the APP.
 <img src="https://user-images.githubusercontent.com/102645554/167231967-b4601a65-7931-4323-89f3-65f80a430a36.jpg" width="500"/>
 
-3. Enter the “user-defined layout” in the “operation setting” of the game and move the direction wheel in line with the wheel of the APP 
+3. Enter the “user-defined layout” in the “operation setting” of the game and move the direction wheel in line with the wheel of the APP
 <img src="https://user-images.githubusercontent.com/102645554/167232077-36430327-f9c7-40f2-86c2-9ba90aa29e0e.jpg" width="500"/>
 
 About the Sensitivity
