@@ -1,6 +1,6 @@
 # Android-SOE-Helper
 
-#download
+# download
 <img src="https://user-images.githubusercontent.com/102645554/167233506-0175bdb8-f029-4ae9-8436-d43a446f1d0e.gif" width="1000"/>
 
 # An Illustration of the APP Functions:
