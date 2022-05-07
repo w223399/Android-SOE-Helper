@@ -20,6 +20,7 @@ Due to the differences between phone models or the previous adjustments of the k
 About the Sensitivity
 
 Please adjust the mouse sensitivity in “SOE Helper”—“Fast Switch” and find the sensitivity that is most suitable for you by the sensitivities of various power lens in the game.
+
 <img src="https://user-images.githubusercontent.com/102645554/167232145-832c61e5-6b0a-4682-a9d6-fad7270355a6.jpg" width="500"/>
 
 The Advanced Operation
