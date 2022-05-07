@@ -48,6 +48,7 @@ Please adjust the mouse sensitivity in “SOE Helper”—“Fast Switch” and 
 <img src="https://user-images.githubusercontent.com/102645554/167232251-8578b607-27a2-45c0-a4e9-a26aaf2d47e2.jpg" width="1000"/>
 
 2. The Advanced Setting about the Vehicle
+
 You can put the button of “Drive” and“Get Off” together in the game layout so that you can achieve this function through one shortcut key. (Please double click the key you want to adjust in the “Key Adjustment” of the APP and choose the “Get on/off key”)
 <img src="https://user-images.githubusercontent.com/102645554/167232303-40fa72ed-8071-4313-bc6e-a3122f857dfe.jpg" width="1000"/>
 
